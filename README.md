@@ -14,6 +14,10 @@ Types of Digital  app used  in ham radio:
  eme
  etc.
  
+ we think this  Digital environment for Ham radio is very useful.
+ especially if it is something like  HRD  or DXLAB.  with that in mind
+ included are some other suggestions.
  
- 
+ keep the digital modes separate from everything else.
+ Raspberrypi-devel <<<<<
  
